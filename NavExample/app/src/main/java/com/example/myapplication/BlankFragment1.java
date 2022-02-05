@@ -30,6 +30,7 @@ public class BlankFragment1 extends Fragment {
         // Required empty public constructor
 // ronald
         //some changes
+        //more changes
 	//clevator
     }
 
