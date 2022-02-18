@@ -40,6 +40,9 @@ public class BlankFragment1 extends Fragment {
      * @param param2 Parameter 2.
      * @return A new instance of fragment BlankFragment1.
      */
+
+    // What todo next Kone.
+
     // TODO: Rename and change types and number of parameters
     public static BlankFragment1 newInstance(String param1, String param2) {
         BlankFragment1 fragment = new BlankFragment1();
